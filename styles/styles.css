@@ -292,8 +292,5 @@ p {
 
 
 @media screen and (max-width: 576px) {
- .banner, .hot-deal, .footer {
-  width: 1440px;
-
- }
-} 
+ 
+}
